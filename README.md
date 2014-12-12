@@ -1,4 +1,6 @@
 TeamMoose-GameManagerLib
 ========================
 
-TeamMoose
+TODO: Complete a working version
+      Add JavaDocs
+      Finish README.md
